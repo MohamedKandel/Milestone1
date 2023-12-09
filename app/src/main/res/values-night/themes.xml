@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CurrencyConversion" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <style name="CustomBottomAppBar" parent="Widget.MaterialComponents.BottomAppBar">
+        <item name="android:background">@drawable/bottombar_bg</item>
+    </style>
+</resources>
